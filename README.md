@@ -77,7 +77,7 @@
 
 <!-- ==================== TECNOLOGIAS ==================== -->
 
-<h2>🛠️ Tecnologías en uso</h2> 
+<h2>🛠️ Tecnologías</h2> 
 
 ### Lenguajes de Programación 🖥️ 
 
